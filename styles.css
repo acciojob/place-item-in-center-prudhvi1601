@@ -1,19 +1,12 @@
  .holder{
-    display: flex;
-    flex-wrap: wrap;
-     gap: 10px;
-     justify-content: center;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
  }
- .item{
-    height: 200px;
-    width: 200px;
-    background-color: black;
-    color: aqua;
- }
- .holder .item-1{
+ 
+ .item-1{
    height: 200px;
-    width: 200px;
-    background-color:aqua;
-    color: black;
-    align-items: center;
+   width: 200px;
+   background-color:aqua;
+   color: black;
 }
