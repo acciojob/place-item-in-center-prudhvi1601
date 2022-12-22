@@ -2,6 +2,7 @@
     display: flex;
     flex-wrap: wrap;
      gap: 10px;
+     justify-content: center;
  }
  .item{
     height: 200px;
@@ -9,10 +10,10 @@
     background-color: black;
     color: aqua;
  }
- .item-1{
+ .holder .item-1{
    height: 200px;
     width: 200px;
     background-color:aqua;
     color: black;
-justify-content: center;
+    align-items: center;
 }
